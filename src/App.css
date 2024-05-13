@@ -12,6 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.table{
+  flex-grow: 1;
+  max-height: 60vh;
+  overflow-y: auto;
+}
 
 .App-header {
   background-color: #282c34;
